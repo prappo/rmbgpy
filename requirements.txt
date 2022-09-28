@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+pillow
+uvicorn
+aiofiles
+python-multipart
+scikit-image
+flask
+flask_cors
+cloudinary
+gdown
